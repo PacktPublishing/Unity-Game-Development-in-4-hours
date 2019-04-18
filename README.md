@@ -1,7 +1,7 @@
 # Unity Game Development in 4 hours 
 This is the code repository for [Unity Game Development in 4 hours [Video]](https://prod.packtpub.com/in/game-development/unity-game-development-4-hours-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-	Curious about game development but afraid to get into it because it seems too hard? Fear no more! With this course, you will learn how to develop games with one of the most popular engines in the industry. You will learn only relevant and practical information, and appreciate how it applies to the real world. 
+Curious about game development but afraid to get into it because it seems too hard? Fear no more! With this course, you will learn how to develop games with one of the most popular engines in the industry. You will learn only relevant and practical information, and appreciate how it applies to the real world. 
 By the end of this course, you will have a full-scale 3D game, similar to indie favorites such as Dear Esther, Amnesia, and Gone Home. In only 4 hours, you will become an indie developer! 
 The code bundle for this video course is available at - https://github.com/PacktPublishing/Unity-Game-Development-in-4-hours
 
