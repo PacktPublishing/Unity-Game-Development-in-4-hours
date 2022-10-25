@@ -31,3 +31,7 @@ OS: Windows or Linux<br/>
 * [Practical Unity Game Development [Video]](https://prod.packtpub.com/in/game-development/practical-unity-game-development-video)
 
 * [Hands-on Game Development with Unity 2018.1 [Video]](https://prod.packtpub.com/in/game-development/hands-game-development-unity-20181-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838551520">https://packt.link/free-ebook/9781838551520 </a> </p>
